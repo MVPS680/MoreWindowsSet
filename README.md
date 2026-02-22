@@ -117,14 +117,5 @@ dotnet run --project "./WinUserLauncher.csproj" -c Release
 
 该仓库当前未包含 LICENSE 文件。如希望开源发布，推荐 MIT 许可证。若你希望我为仓库添加 `LICENSE` 文件，请告知选择的许可证类型（例如 MIT、Apache-2.0、GPL-3.0 等），我可以为你自动创建。
 
----
-
-如果你希望，我可以继续：
-
-- 将应用列表从硬编码迁移到 `apps.json` 并实现加载逻辑（我可以实现并提交补丁）。
-- 添加一个示例 `apps.json`、以及一个 `LICENSE` 文件（如 MIT）。
-
-如果现在就要我把 README 写入仓库并尝试构建项目，请回复确认，我将继续（我会在构建后报告结果与下一步建议）。
-
 作者MVPS680
 2026年1月30日
